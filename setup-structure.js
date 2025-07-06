@@ -8,14 +8,14 @@ const __dirname = path.dirname(__filename);
 const structure = {
   src: {
     components: {
-      "BookForm.jsx": `// Book Form
-const BookForm = () => {
+      "bookform.jsx": `// Book Form
+const Bookform = () => {
   return <div>Book Form<div>;
 
-export default BookForm
+export default Bookform
 `,
-      "BookList.jsx": `// Book List
-const BookList = () => {
+      "booklist.jsx": `// Book List
+const Booklist = () => {
   return <div>Book List</div>
 }
 

@@ -1,5 +1,5 @@
 // Book Form
-const BookForm = () => {
+const Bookform = () => {
   return <div>Book Form<div>;
 
-export default BookForm
+export default Bookform

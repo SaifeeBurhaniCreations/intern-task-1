@@ -1,5 +1,5 @@
 // Book List
-const BookList = () => {
+const Booklist = () => {
   return <div>Book List</div>
 }
 
